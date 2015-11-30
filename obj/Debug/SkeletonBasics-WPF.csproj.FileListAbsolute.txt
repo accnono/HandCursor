@@ -1,0 +1,32 @@
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.baml
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.g.cs
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\App.g.cs
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\CARLOS\Documents\Nueva carpeta (3)\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Dropbox\HeuristicasInteligentes\SkeletonBasics-WPF - actualizado\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\CARLOS\Dropbox\HeuristicasInteligentes\SkeletonBasics-WPF - actualizado\obj\Debug\SkeletonBasics-WPF.pdb
+E:\windows\Dropbox\HeuristicasInteligentes\SkeletonBasics-WPF - actualizado\obj\Debug\SkeletonBasics-WPF.exe
+E:\windows\Dropbox\HeuristicasInteligentes\SkeletonBasics-WPF - actualizado\obj\Debug\SkeletonBasics-WPF.pdb
